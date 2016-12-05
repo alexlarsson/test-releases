@@ -1,0 +1,9 @@
+[Flatpak Ref]
+Title=gnome Recipes
+Name=org.gnome.Recipes
+Branch=master
+Url=@URL@
+IsRuntime=False
+GPGKey=@GPG@
+RuntimeRepo=https://sdk.gnome.org/gnome.flatpakrepo
+Comment=org.gnome.Recipes
